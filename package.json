@@ -1,0 +1,24 @@
+{
+  "name": "practical",
+  "version": "1.0.0",
+  "description": "practical",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komal-meghani13/pratical_task_ViitorCloud.git#KOMAL_MEGHANI_ViitorCloud"
+  },
+  "author": "komal_meghani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komal-meghani13/pratical_task_ViitorCloud/issues"
+  },
+  "homepage": "https://github.com/komal-meghani13/pratical_task_ViitorCloud/tree/KOMAL_MEGHANI_ViitorCloud#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "http": "^0.0.1-security"
+  }
+}
